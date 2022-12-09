@@ -1,3 +1,3 @@
 # VIZCOMP
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/otaviofcoletti/VIZCOMP/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/otaviofcoletti/ScatterPolar_And_TreeMap/HEAD?urlpath=voila%2Frender%2Fprojetofinal_2.ipynb)
